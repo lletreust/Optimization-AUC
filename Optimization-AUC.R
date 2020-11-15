@@ -33,3 +33,4 @@ opt
 names(opt)
 opt$par
 aire(c(opt$par[1], opt$par[2], opt$par[3], opt$par[4]))
+
